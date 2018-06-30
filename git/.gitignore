@@ -1,0 +1,23 @@
+# COMPILED #
+*.class
+
+# PACKAGES #
+*.dmg
+*.gz
+*.jar
+*.tar
+*.tgz
+
+# OS #
+.DS_Store
+.DS_Store?
+._*
+
+# IDE #
+.idea/
+
+# DEPENDENCIES #
+node_modules/
+jspm_packages/
+
+
